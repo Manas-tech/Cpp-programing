@@ -33,7 +33,7 @@ int main()
 		// Check if current number is prime
 		if(isPrime(i))
 		{
-			cout << i << " ";
+			cout << i << "  ";
 		}
 	}
 
