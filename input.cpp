@@ -12,7 +12,7 @@ int main()
     std::cout << "ENTER THE INPUT ";
     cin >> i;
 
-  std::cout << "THE INPUT IS ";
+  std::cout << "THE INPUT IS  ";
     // Print output
     cout << i;
   
