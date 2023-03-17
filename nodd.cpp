@@ -8,7 +8,7 @@ int main()
 	cout << "\nPlease Enter Integer  Value to print Natural Numbers =  ";
 	cin >> number;
 	
-	cout << "\nList of Natural Numbers from 1 to " << number << " are\n"; 
+	cout << "\nList of Natural  Numbers from 1 to " << number << " are\n"; 
 	for(int i = 1; i <= number; i++)
   	{
 		cout << 2*i-1 << " ";
