@@ -9,7 +9,7 @@ int main()
     int i;
   
     // Take input using cin
-    std::cout << "ENTER THE  INPUT ";
+    std::cout << "ENTER   THE  INPUT ";
     cin >> i;
 
   std::cout << "THE INPUT IS  ";
