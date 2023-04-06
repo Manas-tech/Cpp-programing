@@ -18,7 +18,7 @@ void reverseStr(string& str)
 // Driver program
 int main()
 {
-	string str = "reversestring";
+	string str = "reversethisstring";
 	reverseStr(str);
 	cout << str;
 	return 0;
