@@ -11,7 +11,7 @@ int main()
 
 	// ASCII value of A=65 and Z=90
 	for (i = 65; i <= 90; i++) {
-		// Integer i with %c will be converted to character
+		// Integer   i with %c will be converted to character
 		// before printing.%c will takes its equivalent
 		// character value
 		cout << (char)i << " ";
