@@ -7,7 +7,7 @@ int main()
 {
 	int i;
 
-	cout << "Alphabets   from (A-Z) are:\n";
+	cout << "Alphabets from (A-Z) are:\n";
 
 	// ASCII value of A=65 and Z=90
 	for (i = 65; i <= 90; i++) {
